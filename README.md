@@ -22,7 +22,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |   Dr.Akhil Mohan                  |                       | CSE-AI                        |    m_akhil1@cb.amrita.edu                      |
+| Academic       |   Dr.Akhil Mohan                  | professor                      | CSE-AI                        |    m_akhil1@cb.amrita.edu                      |
 | Industry       |                     |                       |                         |                          |
 
 -----
