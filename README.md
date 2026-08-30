@@ -11,18 +11,18 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |    ASWATH.G                     |   CB.SC.U4CSE26206                     |   male              |   BTECH-CSE                              |  
+|    Member 2     |     RAGHUNATHAN B K                    |    CB.SC.U4CSE26240                    |   male              |     BTECH-CSE                            |  
+|    Member 3     |     B RISHI                    |         CB.SC.U4CSE26208               |   male              |     BTECH-CSE                            |  
+|    Member 4     |     N PRABHAS REDDY                    |     CB.SC.U4CSE26230                   |  male               |        BTECH-CSE                         |   
+|    Member 5     |    PRIYADHARANI A                     |     CB.SC.U4CSE26235                   |   female              |       BTECH-CSE                          |  
+|    Member 6     |      MEHA MAHESH                   |       CB.SC.U4CSE26227                 |     Female      |           BTECH-CSE                      |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |   Dr.Akhil Mohan                  |                       | CSE-AI                        |    m_akhil1@cb.amrita.edu                      |
 | Industry       |                     |                       |                         |                          |
 
 -----
