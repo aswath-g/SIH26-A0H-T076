@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:26132
-* **Problem Statement Title:Strengthening market linkages and price discovery for farmers
-* **Theme / Category:Agriculture, FoodTech & Rural Development/Software
-* **Ministry / Organization:Government Of Maharashtra / Maharashtra State Innovation Society, Department of Skills, Employment, Entrepreneurship and Innovation
+* Problem Statement ID:26132
+* Problem Statement Title:Strengthening market linkages and price discovery for farmers
+* Theme / Category:Agriculture, FoodTech & Rural Development/Software
+* Ministry / Organization:Government Of Maharashtra / Maharashtra State Innovation Society, Department of Skills, Employment, Entrepreneurship and Innovation
