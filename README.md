@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T076
 ### Team Details
-#### **Quantum Codex** <<Quantum codex>> <br/>
+#### **Quantum Codex**  <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
@@ -31,10 +31,10 @@
 
 #### PS#1
 
-* **Problem Statement ID:26091
-* **Problem Statement Title:AI-Driven Hyper-Local Business Advisory and Financial Structuring Assistant for Rural Micro-Entrepreneurs
-* **Theme / Category:Agriculture, FoodTech & Rural Development/Software
-* **Ministry / Organization:Ministry of Social Justice and Empowerment (MoSJE)/Department of Social Justice and Empowerment
+* Problem Statement ID:26091
+* Problem Statement Title:AI-Driven Hyper-Local Business Advisory and Financial Structuring Assistant for Rural Micro-Entrepreneurs
+* Theme / Category:Agriculture, FoodTech & Rural Development/Software
+* Ministry / Organization:Ministry of Social Justice and Empowerment (MoSJE)/Department of Social Justice and Empowerment
 
 #### PS#2
 
